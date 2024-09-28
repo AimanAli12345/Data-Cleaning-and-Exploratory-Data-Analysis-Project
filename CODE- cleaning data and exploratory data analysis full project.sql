@@ -1,11 +1,11 @@
-# Cleaning and analysing data - full project
+### Cleaning and analysing data - full project
 
--- First I will be cleaning the data and for that I will do the following:
+## First I will be cleaning the data and for that I will do the following:
 	-- 1: Remove duplicates
     -- 2: Standardize the data
     -- 3: Null values or blank values
     -- 4: Remove any columns
--- Then I will be performing exploratory data analysis on the cleaned version of this data to find trends and patterns by running different queries.
+## Then I will be performing exploratory data analysis on the cleaned version of this data to find trends and patterns by running different queries.
 
 
 SELECT *
